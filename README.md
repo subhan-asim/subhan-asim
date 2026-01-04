@@ -1,10 +1,11 @@
-## 👋Hi, I’m Subhan
+## 👋 Hi, I’m Subhan
 
-Python Automation & Backend Intern | FastAPI • PostgreSQL • ETL
+Python Automation & Backend Intern  
+FastAPI • PostgreSQL • ETL
 
-Background  
-Hands-on backend and automation developer with experience building real-world systems around APIs, databases, and data pipelines. I focus on reliability, clarity, and outcomes.
+### Background
+Hands-on backend and automation developer building real-world systems around APIs, databases, and data pipelines. I focus on reliability and outcomes.
 
-Contact  
-🔗LinkedIn: https://www.linkedin.com/in/subhan-asim/
-📫Email: subhanasim974@gmail.com
+### Contact
+- LinkedIn: [subhan-asim](https://www.linkedin.com/in/subhan-asim/)
+- Email: subhanasim974@gmail.com
