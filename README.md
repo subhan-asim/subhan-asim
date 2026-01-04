@@ -4,7 +4,7 @@ Python Automation & Backend Intern
 FastAPI • PostgreSQL • ETL
 
 ### Background
-Hands-on backend and automation developer building real-world systems around APIs, databases, and data pipelines. I focus on reliability and outcomes.
+Python backend & automation intern focused on building API-driven systems, ETL pipelines, and scheduled workflows that automate data collection and processing using FastAPI, PostgreSQL, and Playwright.
 
 ### Contact
 - LinkedIn: [subhan-asim](https://www.linkedin.com/in/subhan-asim/)
