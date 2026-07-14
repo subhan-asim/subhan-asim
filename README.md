@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Subhan
 
-Python Automation & Backend Develoer  
+Python Automation & Backend Developer
 FastAPI • PostgreSQL • ETL
 
 ### Background
@@ -8,3 +8,5 @@ Python backend & automation developer focused on building API-driven systems, ET
 
 ### Contact
 - Email: subhanasim974@gmail.com
+
+### Portfolio: subhanasim.netlify.app
